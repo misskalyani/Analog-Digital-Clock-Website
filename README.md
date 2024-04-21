@@ -1,6 +1,6 @@
 <h1 align="center"> Analog Digital Clock </h1>
 
-[![Analog Digital Clock](https://img.shields.io/badge/Visit-blue.svg)](https://misskalyani.github.io/Analog-Digital-Clock-Website/)
+<p align="center"> [![Analog Digital Clock](https://img.shields.io/badge/Visit-blue.svg)](https://misskalyani.github.io/Analog-Digital-Clock-Website/)</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=misskalyani&label=Profile%20views&color=0e75b6&style=flat" alt="misskalyani" /> </p>
 
 

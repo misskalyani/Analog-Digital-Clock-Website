@@ -1,9 +1,9 @@
 <h1 align="center"> Analog Digital Clock </h1>
 
  [![Analog Digital Clock](https://img.shields.io/badge/Visit-blue.svg)](https://misskalyani.github.io/Analog-Digital-Clock-Website/)
-<br>
+
 [![](https://visitcount.itsvg.in/api?id=misskalyani&icon=0&color=0)](https://visitcount.itsvg.in)
-<br>
+
 ![](https://img.shields.io/github/followers/misskalyani?style=social)
 
 <br><br><br>

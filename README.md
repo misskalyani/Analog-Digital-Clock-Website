@@ -3,4 +3,4 @@
 
 
 
-<img src="clock.jpg" width="300" height="300" align="center"/>
+<center><img src="clock.jpg" width="300" height="300" /></center>

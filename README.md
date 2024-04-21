@@ -1,11 +1,12 @@
 <h1 align="center"> Analog Digital Clock </h1>
 
  [![Analog Digital Clock](https://img.shields.io/badge/Visit-blue.svg)](https://misskalyani.github.io/Analog-Digital-Clock-Website/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=misskalyani&label=Profile%20views&color=0e75b6&style=flat" alt="misskalyani" /> </p>
+<br>
+[![](https://visitcount.itsvg.in/api?id=misskalyani&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
+![](https://img.shields.io/github/followers/misskalyani?style=social)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<br><br><br>
 <!--- <center><img src="clock.jpg" width="300" height="300" /></center>--->
 
 <p align="center">

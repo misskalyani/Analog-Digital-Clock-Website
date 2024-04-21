@@ -3,3 +3,4 @@
 
 
 ![Analog_Digital_Clock](Analog-Digital-Clock-Website/clock.jpg)  
+<img src="clock.jpg" width="300" />

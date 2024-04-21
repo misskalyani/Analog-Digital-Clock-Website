@@ -2,5 +2,5 @@
 [![Analog Digital Clock](https://img.shields.io/badge/Visit-blue.svg)](https://misskalyani.github.io/Analog-Digital-Clock-Website/)
 
 
-![Analog_Digital_Clock](Analog-Digital-Clock-Website/clock.jpg)  
-<img src="clock.jpg" width="300" />
+
+<img src="clock.jpg" width="300" height="300"/>
